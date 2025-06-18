@@ -1,4 +1,6 @@
 # 📊 Cohort Retention Analysis: Looker E-Commerce
+![ppt cohort gif](https://github.com/user-attachments/assets/525221ce-20b9-473d-860a-b659e25027f8)
+
 
 ## 📌 Deskripsi Proyek
 
